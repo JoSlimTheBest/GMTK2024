@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\GitRepositor\\GMTK2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|c:\\gitrepositor\\gmtk2024\\assets\\scripts\\gamescripts\\rotateship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescripts\\rotateship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|C:\\GitRepositor\\GMTK2024\\assets\\scripts\\gamescripts\\orbitshipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescripts\\orbitshipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|c:\\gitrepositor\\gmtk2024\\assets\\scripts\\gamescripts\\camerachanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescripts\\camerachanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|c:\\gitrepositor\\gmtk2024\\assets\\scripts\\gamescripts\\gravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|C:\\GitRepositor\\GMTK2024\\assets\\scripts\\gamescripts\\gravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F1156FB-4491-F105-1B93-CD204EADB59F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescripts\\gravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RotateShip.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\GMTK2024\\Assets\\Scripts\\GameScripts\\RotateShip.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScripts\\RotateShip.cs",
+              "ToolTip": "C:\\GitRepositor\\GMTK2024\\Assets\\Scripts\\GameScripts\\RotateShip.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScripts\\RotateShip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:59:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrbitShipper.cs",
+              "DocumentMoniker": "C:\\GitRepositor\\GMTK2024\\Assets\\Scripts\\GameScripts\\OrbitShipper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScripts\\OrbitShipper.cs",
+              "ToolTip": "C:\\GitRepositor\\GMTK2024\\Assets\\Scripts\\GameScripts\\OrbitShipper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScripts\\OrbitShipper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:13:25.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CameraChanger.cs",
               "DocumentMoniker": "C:\\GitRepositor\\GMTK2024\\Assets\\Scripts\\GameScripts\\CameraChanger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameScripts\\CameraChanger.cs",
               "ToolTip": "C:\\GitRepositor\\GMTK2024\\Assets\\Scripts\\GameScripts\\CameraChanger.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameScripts\\CameraChanger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T02:02:39.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Gravity.cs",
               "DocumentMoniker": "C:\\GitRepositor\\GMTK2024\\Assets\\Scripts\\GameScripts\\Gravity.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameScripts\\Gravity.cs",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GameScripts\\Gravity.cs",
               "ViewState": "AQIAAHoAAAAAAAAAAAAewIsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T01:58:08.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T01:58:08.247Z"
             }
           ]
         }
